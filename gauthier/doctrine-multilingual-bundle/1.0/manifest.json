@@ -1,0 +1,9 @@
+{
+    "bundles": {
+        "Gauthier\\DoctrineMultilingualBundle\\DoctrineMultilingualBundle": ["all"]
+    },
+    "copy-from-package": {
+        "config/": "%CONFIG_DIR%/"
+    },
+    "aliases": ["doctrine-multilingual"]
+}
